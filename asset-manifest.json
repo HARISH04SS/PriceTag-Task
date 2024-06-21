@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PriceTag-Task/static/css/main.da2737a4.css",
+    "main.js": "/PriceTag-Task/static/js/main.32264f67.js",
+    "static/js/453.b9d9494f.chunk.js": "/PriceTag-Task/static/js/453.b9d9494f.chunk.js",
+    "index.html": "/PriceTag-Task/index.html",
+    "main.da2737a4.css.map": "/PriceTag-Task/static/css/main.da2737a4.css.map",
+    "main.32264f67.js.map": "/PriceTag-Task/static/js/main.32264f67.js.map",
+    "453.b9d9494f.chunk.js.map": "/PriceTag-Task/static/js/453.b9d9494f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da2737a4.css",
+    "static/js/main.32264f67.js"
+  ]
+}
